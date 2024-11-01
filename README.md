@@ -1,9 +1,7 @@
-## Hi there 👋
+👋 Hello, I'm Annmaria Thankachan!
 
-<!--
-**AnnmariaThankachan76/AnnmariaThankachan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science | 💻 Java & C Enthusiast | 🌐 Aspiring Web Developer
+📍 Student at St. Joseph College of Engineering and Technology, Palai
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact
