@@ -24,6 +24,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnnmariaThankachan76&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
 ### 🤝 Let's Collaborate!
 If you’re interested in working on web development projects or exploring innovative ideas, I’d love to connect. Let’s build something amazing together! 🚀
