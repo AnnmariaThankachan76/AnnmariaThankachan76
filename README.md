@@ -1,13 +1,28 @@
-👋 Hello, I'm Annmaria Thankachan!
+# Hello, I'm Annmaria Thankachan! 👋
 
-🎓 B.Tech in Computer Science | 💻 Java & C Enthusiast | 🌐 Aspiring Web Developer
-📍 Student at St. Joseph College of Engineering and Technology, Palai
+🎓 **B.Tech Student**  
+📍 **St. Joseph's College of Engineering and Technology, Palai**  
+🌐 **Aspiring Web Developer**  
+ 💻 **Java & C Enthusiast** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact
+
+---
+
+### About Me
+I'm a passionate B.Tech student currently studying at St. Joseph's College of Engineering and Technology in Palai. With a keen interest in web development, I'm constantly exploring new technologies and expanding my skill set to become a proficient developer. I love collaborating on projects and learning from fellow developers, which helps me to build real-world applications and gain hands-on experience. 🌱
+
+### 🔧 Tech Stack & Skills
+- **Programming Languages:** Java, C
+- **Interests:** Web development, frontend and backend
+- **Looking For:** Collaboration on real-world projects, networking with other tech enthusiasts, and gaining hands-on experience.
+
+### 🤝 Let's Collaborate!
+If you’re interested in working on web development projects or exploring innovative ideas, I’d love to connect. Let’s build something amazing together! 🚀
+
+---
+
+📬 **Contact Me:**  
+- **Email:** annmariathankachan761@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/annmaria-thankachan-129954290](#)
+
+---
